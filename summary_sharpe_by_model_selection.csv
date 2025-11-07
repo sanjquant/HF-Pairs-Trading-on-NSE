@@ -1,0 +1,5 @@
+model,pair_selection,sharpe
+Classical,Random,0.5626562500000001
+Classical,Ranked,0.8029375
+Preferred,Random,0.97353125
+Preferred,Ranked,1.23240625

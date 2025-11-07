@@ -1,0 +1,4 @@
+model,pair_selection,exec_delay_ticks,portfolio_sharpe,portfolio_committed_return_annual,portfolio_invested_return_annual,total_trades,avg_hit_rate,avg_max_drawdown,capital_per_pair_inr,num_pairs,portfolio_notional_inr
+Preferred,Ranked,1,1.01,0.1644,0.1379,13980,0.556,0.125,100000,10,1000000
+Classical,Random,1,0.47,0.0631,0.0537,14307,0.497,0.122,100000,10,1000000
+Preferred,Ranked,0,1.46,0.2782,0.2299,14278,0.549,0.123,100000,10,1000000
