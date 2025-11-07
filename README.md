@@ -4,9 +4,7 @@
 
 ## Contents: 
 
-    HF_Pairs_Trading_NSE.docx.docx — Executive summary methodology, frictions, KPIs, visuals, results. 
-    
-    HF_Pairs_Trading_NSE_Deck.pptx - Presentation with executive summary, KPI slides, and charts. 
+    HF_Pairs_Trading_NSE_Analysis.ipynb - Python Notebook skeleton to explore outputs. 
     
     NSE_PairsTrading_KPIs.xlsx - Excel workbook with summary tabs and breakdowns. 
     
@@ -16,7 +14,7 @@
     
     charts — PNG images used in the deck/research analysis doc. 
     
-    HF_Pairs_Trading_NSE_Analysis.ipynb - Python Notebook skeleton to explore outputs. 
+   
 
   ## Repro Notes:
     Data are synthetic placeholders that reflect study structure.
